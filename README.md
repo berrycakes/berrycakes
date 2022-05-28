@@ -1,4 +1,4 @@
-
+![github_banner](https://res.cloudinary.com/dbegssigw/image/upload/v1653751113/Gray_and_White_Minimalist_Linked_in_Banner_1_r7mrdf.png)
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
@@ -8,6 +8,11 @@
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
+
+
+### :woman_technologist: &nbsp;About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.
 
 
 
