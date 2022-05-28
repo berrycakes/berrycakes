@@ -1,4 +1,4 @@
-![github_banner](https://user-images.githubusercontent.com/6265768/146669807-65008472-9b4e-4c11-b6b3-5083938216ec.png)
+
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
