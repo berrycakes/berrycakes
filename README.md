@@ -6,9 +6,9 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=berrycakes&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center"> 
-  <img src="https://media.giphy.com/media/EzRljV79T0gda/giphy.gif" style="width:30px;height:30px;"> 
+  <img src="https://media.giphy.com/media/EzRljV79T0gda/giphy.gif" width="40" height="40"> 
   see what's baking
-  <img src="https://media.giphy.com/media/EzRljV79T0gda/giphy.gif"  style="width:30px;height:30px;">
+  <img src="https://media.giphy.com/media/EzRljV79T0gda/giphy.gif"  width="40" height="40">
 </h1>
 
 ### 👩‍💻 &nbsp;About Me :
