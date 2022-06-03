@@ -5,7 +5,11 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=berrycakes&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center"> <img src="https://media.giphy.com/media/EzRljV79T0gda/giphy.gif" width="30px"> see what's baking <img src="https://media.giphy.com/media/EzRljV79T0gda/giphy.gif" width="30px"></h1>
+<div align="center"> 
+  <img src="https://media.giphy.com/media/EzRljV79T0gda/giphy.gif" width="30px"> 
+  <h1>see what's baking</h1> 
+  <img src="https://media.giphy.com/media/EzRljV79T0gda/giphy.gif" width="30px">
+</div>
 
 ### 👩‍💻 &nbsp;About Me :
 
