@@ -1,4 +1,4 @@
-![github_banner](https://res.cloudinary.com/dbegssigw/image/upload/v1653751113/Gray_and_White_Minimalist_Linked_in_Banner_1_r7mrdf.png)
+![github_banner](https://res.cloudinary.com/dbegssigw/image/upload/v1665718318/Gray_and_White_Minimalist_Linked_in_Banner_2_zvsl5i.png)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jiannegabriel"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -13,7 +13,7 @@
 
 ### 👩‍💻 &nbsp;About Me :
 
-I am a Full Stack Developer from Philippines.
+I am a Front End Developer from Philippines.
 
 ---
 
