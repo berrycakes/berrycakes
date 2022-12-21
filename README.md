@@ -13,7 +13,13 @@
 
 ### 👩‍💻 &nbsp;About Me :
 
-I am a Front End Developer from Philippines.
+Hi there! My name is Jianne and I am a front-end developer with a passion for all things cute, science, and tech. Before pursuing a career in software development, I worked as a chemist and have always had a passion for the scientific field.
+
+In my spare time, I love exploring the world of cute stuff, trying my hand at coffee art and nail art, or playing casual games. Sometimes, I am also a binge-watcher of anime and Netflix series. I also enjoy exploring the world of tarot as a way to connect with my inner self and find meaning in the world around me.
+
+I have always been fascinated by the power of technology to connect people and solve problems, and that passion has driven me to pursue a career in software development. I am constantly learning and growing in my field, and I love the challenge of tackling new and complex projects.
+
+I hope you have enjoyed getting to know a little bit about me.
 
 ---
 
